@@ -1,0 +1,5 @@
+##git ignoring chroma responses/logs and python cache
+
+__pycache__
+.chroma
+chroma_logs.log
