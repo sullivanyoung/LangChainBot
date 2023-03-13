@@ -1,7 +1,10 @@
 from flask import Flask, request, jsonify
 from bot import get_response
+from flask_cors import CORS
 
 app = Flask(__name__)
+
+CORS(app)
 
 ## test route to ensure endpoint is setup correctly
 # @app.route('/hello-world', methods=['GET']) 
