@@ -8,7 +8,6 @@ from langchain.prompts.chat import (
     HumanMessagePromptTemplate,
 )
 from langchain.chains import ChatVectorDBChain
-import os 
 
 os.environ["OPENAI_API_KEY"] = "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"
 chat_history = []
