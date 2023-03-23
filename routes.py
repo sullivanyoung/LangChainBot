@@ -14,6 +14,7 @@ CORS(app)
 ## get bot response for returning answers
 @app.route('/get-bot-response', methods=['POST']) 
 def get_bot_response():
+# add guard to protect against websites that aren't https://costar-benefits-chat.vercel.app/
     try:
         input_data = request.get_json()
         result = get_response(input_data['question'])

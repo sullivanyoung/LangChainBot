@@ -19,7 +19,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.chains import ChatVectorDBChain
 import os 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 chat_history = []
 loader = UnstructuredFileLoader('./CoStarBenefits2023.txt')
 vectorstore_benefits = VectorstoreIndexCreator().from_loaders([loader]).vectorstore
