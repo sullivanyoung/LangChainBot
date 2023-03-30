@@ -9,7 +9,7 @@ from langchain.prompts.chat import (
 )
 from langchain.chains import ChatVectorDBChain
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = os.environ.get("OPENAI_API_KEY")
 chat_history = []
 loader = UnstructuredFileLoader('./CoStarBenefits2023.txt')
 vectorstore_benefits = VectorstoreIndexCreator().from_loaders([loader]).vectorstore
