@@ -1221,6 +1221,11 @@ Your EAP coverage includes up to three counseling sessions per person, per issue
 
 To see some of the many things a ComPsych counselor can assist with, read this flyer.
 
+CONSOLIDATED BILLING
+Consolidated billing is when there is consildation of multiple contracts into a singular invoice. These contracts must be at the same billing location and do not have the same billing contact. If there are multiple billing contacts for multiple contracts consolidated into one invoice, the true billing contact posted to the ERP system for the consolidated invoice is the oldest billing contact of all.
+
+SITE LEVEL BILLING
+Site level billing is when there is a single contract that is invoiced out to multiple locations. This type of billing is frequently seen with Apartments contracts.
 
 TUITION REIMBURSEMENT
 CoStar encourages employees to further your formal training with our Tuition Reimbursement benefit of up to $5,250 each calendar year. Benefit-eligible employees who have worked at CoStar for at least six months are eligible for Tuition Reimbursement. You may obtain reimbursement for tuition and certain related fees (excluding book costs, registration fees and transportation) upon successful completion of the course. The maximum reimbursement allowed within a calendar year is $5,250 for undergraduate and graduate-level courses.
@@ -1353,7 +1358,6 @@ Award values are adjusted to provide for a round number of shares. For example, 
 Award notifications will be sent from our CoStar Legal department with a follow-up notification from our stock administrator Solium.
 All stocks awards are processed one month following the anniversary dates. For example, September awards will be processed in the recipient’s account by the end of October; October awards are processed in November, etc. Recipients will receive notification through Solium with information about their grant.
 Questions about service-based stock awards may be directed to stockmatters@costar.com.
-
 
 //Did not cover legal notices here:
 https://www.mercerhrs.com/microsite/costar/fine-print.shtml
